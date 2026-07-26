@@ -1,6 +1,13 @@
 # 💫 About Me:
 Developer. Builder of systems that remember. <br>Architect of digital ephemera. <br>Sometimes I write code that runs in places you can't see. <br>Port open at 33⌛7.
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-A-E-A/M-A-E-A/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-A-E-A/M-A-E-A/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M-A-E-A/M-A-E-A/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_a_eladnani) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abderrahmaneeladnani) 
