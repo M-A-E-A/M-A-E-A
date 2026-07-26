@@ -1,6 +1,7 @@
 # 💫 About Me:
 Developer. Builder of systems that remember. <br>Architect of digital ephemera. <br>Sometimes I write code that runs in places you can't see. <br>Port open at 33⌛7.
 
+# MINI-GAME replay:
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-A-E-A/M-A-E-A/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-A-E-A/M-A-E-A/pacman-output/pacman-contribution-graph.svg?game=pacman">
